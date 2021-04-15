@@ -1,0 +1,3 @@
+class bird extends parent {
+
+}
